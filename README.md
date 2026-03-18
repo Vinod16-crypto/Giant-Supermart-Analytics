@@ -188,5 +188,5 @@ streamlit run streamlit_app/app.py
 ---
 
 ## 👤 Author
-**Data Engineering Module 2 Project**  
-Singapore Data Science Programme
+**Vinod Vincent**  
+*Data Engineering Project
